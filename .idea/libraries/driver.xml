@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="driver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/driver/jaxb-api-2.4.0-b180830.0359.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/xmlbeans-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/poi-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/poi-ooxml-full-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/poi-ooxml-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/KGradientPanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/mssql-jdbc-12.6.1.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/commons-compress-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
